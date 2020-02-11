@@ -1,0 +1,7 @@
+h1 { text-align: center;}
+h1, h2 {color: red;
+     font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;}
+#idp {text-align: center;}
+p{text-indent: 1cm;}
+#bold {font-weight: 1000; text-transform: uppercase; }
